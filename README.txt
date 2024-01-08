@@ -1,2 +1,1 @@
-Data Analytics Portfolio
-All projects are posted here.
+Data Analytics website with all my projects.
